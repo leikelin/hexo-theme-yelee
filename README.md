@@ -5,6 +5,5 @@ hexo博客主题yelee
 
 
 
-在此感谢yelee主题作者
-连接：https://github.com/MOxFIVE/hexo-theme-yelee
+在此感谢yelee主题作者：https://github.com/MOxFIVE/hexo-theme-yelee
 
