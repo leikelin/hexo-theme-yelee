@@ -7,4 +7,6 @@ hexo博客主题yelee
 
 在此感谢yelee主题作者：https://github.com/MOxFIVE/hexo-theme-yelee
 
+2018-12-10更新说明：此主题已经集成了评论系统valine，欢迎小伙伴们使用。
+
 
